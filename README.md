@@ -28,7 +28,7 @@
 
 **Samples with extreme compound noises:**
 
-![Extreme - Results](https://user-images.githubusercontent.com/44358874/218557025-9d652067-e10b-43b8-9b88-55bdb0db4ac3.png)
+![extreme_noises](https://user-images.githubusercontent.com/44358874/218558755-7e3a8c72-ae88-4789-b6b9-f58edefb7b0e.png)
 
 
 **Noise tolerance study:**
