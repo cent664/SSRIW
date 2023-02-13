@@ -1,5 +1,10 @@
 # SELF-SUPERVISED-ROBUST-IMAGE-WATERMARKING
 
+**Simple overview:**
+
+![ae_watermarking](https://user-images.githubusercontent.com/44358874/218557441-584e464a-94fe-4cd0-bc4f-46789cb10152.png)
+
+
 **Triplet loss:**
 
 ![triplet](https://user-images.githubusercontent.com/44358874/218556589-7aed4be5-b82b-4d96-a9f7-bf0b8ac7e2eb.png)
