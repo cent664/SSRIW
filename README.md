@@ -2,9 +2,7 @@
 
 **Simple overview:**
 
-<p align="center">
-  ![ae_watermarking](https://user-images.githubusercontent.com/44358874/218557441-584e464a-94fe-4cd0-bc4f-46789cb10152.png)
-</p>
+![ae_watermarking](https://user-images.githubusercontent.com/44358874/218557441-584e464a-94fe-4cd0-bc4f-46789cb10152.png)
 
 
 **Triplet loss:**
