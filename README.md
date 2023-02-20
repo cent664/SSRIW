@@ -33,4 +33,4 @@
 
 **Noise tolerance study:**
 
-![noise_tolerance](https://user-images.githubusercontent.com/44358874/218557106-fa9040bf-06dc-4010-b375-511282ae3a02.jpg)
+![noise_tolerance](https://user-images.githubusercontent.com/44358874/220196575-59a4d1bd-80ff-4264-a0d7-baae6c5836e3.jpg)
