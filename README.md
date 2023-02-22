@@ -30,7 +30,7 @@ The noises selected for the testing of our scheme, to check for robustness again
 
 **Samples with extreme compound noises:**
 ---
-![extreme_noises](https://user-images.githubusercontent.com/44358874/218558755-7e3a8c72-ae88-4789-b6b9-f58edefb7b0e.png)
+![Extreme - Results](https://user-images.githubusercontent.com/44358874/220757976-669c235e-7f48-489d-900d-e2d33892ac8e.png)
 We illustrate the robustness of our proposed scheme by showing a few examples of extremely distorted cover images from Imagenet with their corresponding recovered watermarks.
 
 **Noise tolerance study:**
