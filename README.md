@@ -3,7 +3,8 @@
 
 **Samples with extreme compound noises:**
 ---
-![Extreme - Results](https://user-images.githubusercontent.com/44358874/220757976-669c235e-7f48-489d-900d-e2d33892ac8e.png)
+![Untitled presentation](https://user-images.githubusercontent.com/44358874/221333997-b3393ac5-6a41-4794-8712-b14b04ec46d0.png)
+![Untitled presentation (1)](https://user-images.githubusercontent.com/44358874/221334009-2b701332-d208-4fc0-94db-220a3e0613f7.png)
 We illustrate the robustness of our proposed scheme by showing a few examples of extremely distorted cover images from Imagenet with their corresponding recovered watermarks.
 
 **Noise tolerance study:**
