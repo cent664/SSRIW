@@ -3,9 +3,9 @@
 
 **Samples with extreme compound noises:**
 ---
-![Untitled presentation](https://user-images.githubusercontent.com/44358874/221333997-b3393ac5-6a41-4794-8712-b14b04ec46d0.png)
-![Untitled presentation (1)](https://user-images.githubusercontent.com/44358874/221334009-2b701332-d208-4fc0-94db-220a3e0613f7.png)
-We illustrate the robustness of our proposed scheme by showing a few examples of extremely distorted cover images from Imagenet with their corresponding recovered watermarks.
+![Picture1](https://user-images.githubusercontent.com/44358874/222523921-ea143405-2632-4ddf-88ff-1949be3b221f.png)
+![Picture2](https://user-images.githubusercontent.com/44358874/222523931-37fb7074-c3f6-4d88-844f-1fcaf3d254c9.png)
+We illustrate the robustness of our proposed scheme by showing a few examples of extremely distorted cover images from Imagenet with their corresponding recovered watermarks. The watermark extraction is denoted by the BRR and the similarity between the cover image and the noised marked image is denoted with PSNR.
 
 **Noise tolerance study:**
 ---
