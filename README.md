@@ -1,5 +1,7 @@
 # Robust Image Watermarking based on Cross-Attention and Invariant Domain Learning
 ---
+[Link to pretrained weights
+](https://drive.google.com/drive/folders/1GHNU1KFDcLaGMpALDvrFVxEtAlnP5ZXF?usp=sharing)
 
 **Cross-attention for imaage watermarking:**
 ---
@@ -32,6 +34,3 @@ Figure illustrating the pixels affected by the embedding process for each case b
 ---
 ![noise_tolerance](https://github.com/cent664/SSRIW/assets/44358874/ae75705b-813c-4fb0-a010-6c62864d1021)
 We perform an experiment to test the tolerance of our proposed scheme against increasing levels of noises. As expected the performance decreases steadily with an increase in the degree of noise.
-
-[Link to pretrained weights
-](https://drive.google.com/drive/folders/1GHNU1KFDcLaGMpALDvrFVxEtAlnP5ZXF?usp=sharing)
