@@ -1,14 +1,16 @@
 # Robust Image Watermarking based on Cross-Attention and Invariant Domain Learning
 ---
 
-
 **Architecture overview:**
 ---
 ![Architecture](https://github.com/cent664/SSRIW/assets/44358874/81748e20-d762-4330-beef-5ddef1bd82f2)
 
+
+
 **Cross-attention for imaage watermarking:**
 ---
 ![cross_attention_watermarking](https://github.com/cent664/SSRIW/assets/44358874/fe6788ba-c69e-4fba-8c53-f0ee42020105)
+
 
 
 **Watermark embedding location:**
@@ -17,10 +19,12 @@
 Figure illustrating the pixels affected by the embedding process for each case by showcasing the difference between the cover image and their respective marked image. 
 
 
+
 **Noise tolerance study:**
 ---
 ![noise_tolerance](https://github.com/cent664/SSRIW/assets/44358874/ae75705b-813c-4fb0-a010-6c62864d1021)
 We perform an experiment to test the tolerance of our proposed scheme against increasing levels of noises. As expected the performance decreases steadily with an increase in the degree of noise.
+
 
 
 **Watermark generation example:**
