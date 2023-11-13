@@ -43,4 +43,4 @@ We perform an experiment to test the tolerance of our proposed scheme against in
 ---
 
 Agnibh Dasgupta, Xin Zhong. 2023. Robust Image Watermarking based on Cross-Attention and Invariant Domain Learning. 2023 International Conference on Computational Science & Computational Intelligence (CSCI'23).
-[![noise_tolerance](https://github.com/cent664/SSRIW/assets/44358874/ae75705b-813c-4fb0-a010-6c62864d1021)](https://arxiv.org/abs/2310.05395)https://arxiv.org/abs/2310.05395
+https://arxiv.org/abs/2310.05395
