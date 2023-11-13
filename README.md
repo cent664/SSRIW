@@ -34,4 +34,4 @@ Figure illustrating the pixels affected by the embedding process for each case b
 We perform an experiment to test the tolerance of our proposed scheme against increasing levels of noises. As expected the performance decreases steadily with an increase in the degree of noise.
 
 [Link to pretrained weights
-]([url](https://drive.google.com/drive/folders/1GHNU1KFDcLaGMpALDvrFVxEtAlnP5ZXF?usp=sharing)https://drive.google.com/drive/folders/1GHNU1KFDcLaGMpALDvrFVxEtAlnP5ZXF?usp=sharing)https://drive.google.com/drive/folders/1GHNU1KFDcLaGMpALDvrFVxEtAlnP5ZXF?usp=sharing)https://drive.google.com/drive/folders/1GHNU1KFDcLaGMpALDvrFVxEtAlnP5ZXF?usp=sharing)
+](https://drive.google.com/drive/folders/1GHNU1KFDcLaGMpALDvrFVxEtAlnP5ZXF?usp=sharing)
