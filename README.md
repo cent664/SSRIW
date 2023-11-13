@@ -9,7 +9,8 @@ We illustrate the robustness of our proposed scheme by showing a few examples of
 
 **Noise tolerance study:**
 ---
-![noise_tolerance](https://user-images.githubusercontent.com/44358874/221332916-a5b70bc7-ec7d-41d9-bf85-45c08fe148f9.jpg)
+![noise_tolerance](https://github.com/cent664/SSRIW/assets/44358874/ae75705b-813c-4fb0-a010-6c62864d1021)
+
 We perform an experiment to test the tolerance of our proposed scheme against increasing levels of trained and untrained noises. As expected the performance decreases steadily with an increase in the degree of noise.
 
 **Triplet loss:**
