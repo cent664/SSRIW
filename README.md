@@ -26,7 +26,6 @@ We propose utilizing MHA in image watermarking to allocate watermarks across var
 
 **Watermark embedding location:**
 ---
-
 Figure illustrating the pixels affected by the embedding process for each case by showcasing the difference between the cover image and their respective marked image. 
 ![watermark_location](https://github.com/cent664/SSRIW/assets/44358874/a066ecc7-edc3-4c99-923c-f434b7751db5)
 
@@ -34,13 +33,10 @@ Figure illustrating the pixels affected by the embedding process for each case b
 
 **Noise tolerance study:**
 ---
-
 We perform an experiment to test the tolerance of our proposed scheme against increasing levels of noises. As expected the performance decreases steadily with an increase in the degree of noise.
 ![noise_tolerance](https://github.com/cent664/SSRIW/assets/44358874/ae75705b-813c-4fb0-a010-6c62864d1021)
 
 
 **Paper Citation:**
 ---
-
 Agnibh Dasgupta, Xin Zhong. 2023. Robust Image Watermarking based on Cross-Attention and Invariant Domain Learning. 2023 International Conference on Computational Science & Computational Intelligence (CSCI'23).
-https://arxiv.org/abs/2310.05395
