@@ -1,5 +1,8 @@
 # Robust Image Watermarking based on Cross-Attention and Invariant Domain Learning
 ---
+
+[Explanation video]([url](https://unomaha.yuja.com/V/Video?v=9291369&a=119095956))
+
 [Link to pretrained weights
 ](https://drive.google.com/drive/folders/1GHNU1KFDcLaGMpALDvrFVxEtAlnP5ZXF?usp=sharing)
 
