@@ -42,6 +42,6 @@ We perform an experiment to test the tolerance of our proposed scheme against in
 
 **Paper Citation:**
 ---
-Dasgupta, A. and Zhong, X., 2023. Robust Image Watermarking based on Cross-Attention and Invariant Domain Learning. arXiv preprint arXiv:2310.05395.
+Dasgupta, A. and Zhong, X., 2023. Robust Image Watermarking based on Cross-Attention and Invariant Domain Learning. *arXiv preprint arXiv:2310.05395.*
 
 https://arxiv.org/abs/2310.05395
