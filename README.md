@@ -9,7 +9,7 @@
 **Cross-attention for image watermarking:**
 ---
 We propose utilizing MHA in image watermarking to allocate watermarks across various regions based on relevance. The figure illustrates the decomposition of the cover image and watermark into vectors which are then embedded  with positional embeddings. These vectors are then processed through an MHA layer, computing attention scores between patches from one image (as queries) and the other (as keys), facilitating understanding between the cover image and the watermark. These scores are then utilized to identify optimal watermark embedding locations.
-![cross_attention_watermarking](https://github.com/cent664/SSRIW/assets/44358874/fe6788ba-c69e-4fba-8c53-f0ee42020105)
+![cross_attention_watermarking](https://github.com/user-attachments/assets/455e8bec-6959-4a0e-8dca-b2147f8dfc1e)
 
 
 
