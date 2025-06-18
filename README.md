@@ -40,8 +40,22 @@ We perform an experiment to test the tolerance of our proposed scheme against in
 ![noise_tolerance](https://github.com/cent664/SSRIW/assets/44358874/ae75705b-813c-4fb0-a010-6c62864d1021)
 
 
-**Paper Citation:**
+**📋 Citation:**
 ---
-A. Dasgupta and X. Zhong, "Robust Image Watermarking Based on Cross-Attention and Invariant Domain Learning," 2023 International Conference on Computational Science and Computational Intelligence (CSCI), Las Vegas, NV, USA, 2023, pp. 1125-1132, doi: 10.1109/CSCI62032.2023.00185.
+```bibtex
+@inproceedings{dasgupta2023robust,
+  author    = {Agnibh Dasgupta and Xin Zhong},
+  title     = {Robust Image Watermarking Based on Cross-Attention and Invariant Domain Learning},
+  booktitle = {Proceedings of the 2023 International Conference on Computational Science and Computational Intelligence (CSCI)},
+  pages     = {1125--1132},
+  year      = {2023},
+  publisher = {IEEE},
+  address   = {Las Vegas, NV, USA},
+  doi       = {10.1109/CSCI62032.2023.00185},
+  url       = {https://ieeexplore.ieee.org/document/10590390}
+}
+```
+A. Dasgupta and X. Zhong, "Robust Image Watermarking Based on Cross-Attention and Invariant Domain Learning," in *Proceedings of the 2023 International Conference on Computational Science and Computational Intelligence (CSCI)*, Las Vegas, NV, USA, 2023, pp. 1125–1132. IEEE. doi: 10.1109/CSCI62032.2023.00185.
 
 https://ieeexplore.ieee.org/document/10590390
+
