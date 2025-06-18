@@ -57,5 +57,3 @@ We perform an experiment to test the tolerance of our proposed scheme against in
 ```
 A. Dasgupta and X. Zhong, "Robust Image Watermarking Based on Cross-Attention and Invariant Domain Learning," in *Proceedings of the 2023 International Conference on Computational Science and Computational Intelligence (CSCI)*, Las Vegas, NV, USA, 2023, pp. 1125–1132. IEEE. doi: 10.1109/CSCI62032.2023.00185.
 
-https://ieeexplore.ieee.org/document/10590390
-
